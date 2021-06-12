@@ -1,0 +1,15 @@
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.exe
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.deps.json
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.dll
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.pdb
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.csproj.AssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan_Calculator.Form1.resources
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.csproj.GenerateResource.cache
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.dll
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.pdb
+C:\Users\Huy Hoang\source\repos\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.genruntimeconfig.cache
